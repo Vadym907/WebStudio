@@ -265,12 +265,12 @@
 .footer_container {
     padding-top: 60px;
     padding-bottom: 60px;
-    max-width: 231px;
+    max-width: 1170px;
+    margin: 0 auto;
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding-left: 215px;
 }
 
 .footer_container--adress {
@@ -366,4 +366,5 @@
     line-height: 30px;
     letter-spacing: 3%;
     padding: 0 24px;
+
 }
