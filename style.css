@@ -72,6 +72,7 @@
     line-height: 100%;
     letter-spacing: 2%;
     color: #757575;
+    text-decoration: none;
 }
 
 .header_page--content--info:hover {
@@ -81,6 +82,7 @@
     line-height: 100%;
     letter-spacing: 2%;
     color: #2196F3;
+    text-decoration: none;
 }
 
 .solution {
@@ -368,3 +370,4 @@
     padding: 0 24px;
 
 }
+
